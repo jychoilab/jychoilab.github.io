@@ -13,6 +13,10 @@ permalink: /publications/
 
 ### Preprints
 
+Environment-dependent selection impacts heritable developmental stability and trait canalization in rice<br>
+Dunivant TS, Calic I, Gilligan C,  Joly-Lopez Z,  **Choi JY**, Natividad M, Cabral CLU, Torres RO, Vergara GV, Franks SJ, Henry A, Purugganan M, Groen SC<br>
+[bioRxiv 205](https://doi.org/10.1101/2025.06.13.659410){:target="_blank"}
+
 Nascent transcription and the associated cis-regulatory landscape in rice<br>
 **Choi JY**, Platts AE, Johary A, Purugganan MD, Joly-Lopez Z<br>
 [bioRxiv 2022](https://doi.org/10.1101/2022.07.06.498888){:target="_blank"}
@@ -20,7 +24,7 @@ Nascent transcription and the associated cis-regulatory landscape in rice<br>
 ### Articles
 
 Monkeyflower (Mimulus) uncovers the evolutionary basis of the eukaryote telomere sequence variation<br>
-**<sup>#</sup>Kumawat S**, **<sup>#</sup>Shametov A**, Valeeva LR, Ju Y, Martinez I, Logeswaran D, Chen H, Coughlan J, Chen J, Yuan YW, Sobel J,  **Choi JY**<br>
+**<sup>#</sup>Kumawat S**, **<sup>#</sup>Shametov A**, Valeeva LR, Ju Y, Martinez I, Logeswaran D, Chen H, Coughlan J, Chen J, Yuan YW, Sobel J,Koo DH, Shakirov EV, **Choi JY**<br>
 [PloS Genetics. 21(6): e1011738 (2025)](https://doi.org/10.1371/journal.pgen.1011738){:target="_blank"}
 
 No end in sight: Mysteries of the telomeric variation in plants<br>
