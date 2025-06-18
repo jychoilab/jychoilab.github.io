@@ -15,7 +15,7 @@ permalink: /publications/
 
 Environment-dependent selection impacts heritable developmental stability and trait canalization in rice<br>
 Dunivant TS, Calic I, Gilligan C,  Joly-Lopez Z,  **Choi JY**, Natividad M, Cabral CLU, Torres RO, Vergara GV, Franks SJ, Henry A, Purugganan M, Groen SC<br>
-[bioRxiv 205](https://doi.org/10.1101/2025.06.13.659410){:target="_blank"}
+[bioRxiv 2025](https://doi.org/10.1101/2025.06.13.659410){:target="_blank"}
 
 Nascent transcription and the associated cis-regulatory landscape in rice<br>
 **Choi JY**, Platts AE, Johary A, Purugganan MD, Joly-Lopez Z<br>
