@@ -1,12 +1,12 @@
 ---
-title: "Choi Lab - Programs"
+title: "Choi Lab - Methods & Software"
 layout: textlay
-excerpt: "Choi Lab -- Programs"
+excerpt: "Choi Lab -- Methods & Software"
 sitemap: false
 permalink: /programs/
 ---
 
-# Research
+# Methods & Software
 <br>
 <br>
 <table class="image" align="left" >
