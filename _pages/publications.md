@@ -25,7 +25,7 @@ Dunivant TS, Calic I, Gilligan C,  Joly-Lopez Z,  **Choi JY**, Natividad M, Cabr
 ### Articles
 
 Uncovering the multi-layer cis-regulatory landscape of rice via integrative nascent RNA analysis<br>
-25.	Goliasse M, Johary A, Platts AE, Ortner-Krause F, Edger PP, **Choi JY**, Purugganan MD, Joly-Lopez Z<br>
+Goliasse M, Johary A, Platts AE, Ortner-Krause F, Edger PP, **Choi JY**, Purugganan MD, Joly-Lopez Z<br>
 [Genome Biology. 26:1–32 (2025)](https://doi.org/10.1186/s13059-025-03715-2){:target="_blank"}
 
 Monkeyflower (Mimulus) uncovers the evolutionary basis of the eukaryote telomere sequence variation<br>
