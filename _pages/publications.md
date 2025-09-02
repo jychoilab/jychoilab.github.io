@@ -21,11 +21,12 @@ Environment-dependent selection impacts heritable developmental stability and tr
 Dunivant TS, Calic I, Gilligan C,  Joly-Lopez Z,  **Choi JY**, Natividad M, Cabral CLU, Torres RO, Vergara GV, Franks SJ, Henry A, Purugganan M, Groen SC<br>
 [bioRxiv 2025](https://doi.org/10.1101/2025.06.13.659410){:target="_blank"}
 
-Nascent transcription and the associated cis-regulatory landscape in rice<br>
-**Choi JY**, Platts AE, Johary A, Purugganan MD, Joly-Lopez Z<br>
-[bioRxiv 2022](https://doi.org/10.1101/2022.07.06.498888){:target="_blank"}
 
 ### Articles
+
+Uncovering the multi-layer cis-regulatory landscape of rice via integrative nascent RNA analysis<br>
+25.	Goliasse M, Johary A, Platts AE, Ortner-Krause F, Edger PP, **Choi JY**, Purugganan MD, Joly-Lopez Z<br>
+[Genome Biology. 26:1–32 (2025)](https://doi.org/10.1186/s13059-025-03715-2){:target="_blank"}
 
 Monkeyflower (Mimulus) uncovers the evolutionary basis of the eukaryote telomere sequence variation<br>
 **<sup>#</sup>Kumawat S**, **<sup>#</sup>Shametov A**, Valeeva LR, Ju Y, Martinez I, Logeswaran D, Chen H, Coughlan J, Chen J, Yuan YW, Sobel J,Koo DH, Shakirov EV, **Choi JY**<br>
