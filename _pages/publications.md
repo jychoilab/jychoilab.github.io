@@ -24,17 +24,23 @@ Dunivant TS, Calic I, Gilligan C,  Joly-Lopez Z,  **Choi JY**, Natividad M, Cabr
 
 ### Articles
 
-Uncovering the multi-layer cis-regulatory landscape of rice via integrative nascent RNA analysis<br>
-Goliasse M, Johary A, Platts AE, Ortner-Krause F, Edger PP, **Choi JY**, Purugganan MD, Joly-Lopez Z<br>
-[Genome Biology. 26:1–32 (2025)](https://doi.org/10.1186/s13059-025-03715-2){:target="_blank"}
-
 Monkeyflower (Mimulus) uncovers the evolutionary basis of the eukaryote telomere sequence variation<br>
 **<sup>#</sup>Kumawat S**, **<sup>#</sup>Shametov A**, Valeeva LR, Ju Y, Martinez I, Logeswaran D, Chen H, Coughlan J, Chen J, Yuan YW, Sobel J,Koo DH, Shakirov EV, **Choi JY**<br>
 [PloS Genetics. 21(6): e1011738 (2025)](https://doi.org/10.1371/journal.pgen.1011738){:target="_blank"}
 
+Female membrane proteins regulate postmating ovulation in Drosophila melanogaster by ovulin-dependent and -independent pathways<br>
+Yang M, White MA, Findlay GD, Vignogna RC, Apger-McGlaughon J, Clark NL, **Choi JY**, Fromme JC, Wolfner MF<br>
+[Proceedings of the National Academy of Sciences. 122:e2508783122 (2025)](https://doi.org/10.1073/pnas.2508783122){:target="_blank"}
+
+Uncovering the multi-layer cis-regulatory landscape of rice via integrative nascent RNA analysis<br>
+Goliasse M, Johary A, Platts AE, Ortner-Krause F, Edger PP, **Choi JY**, Purugganan MD, Joly-Lopez Z<br>
+[Genome Biology. 26:1–32 (2025)](https://doi.org/10.1186/s13059-025-03715-2){:target="_blank"}
+
 No end in sight: Mysteries of the telomeric variation in plants<br>
 **<sup>#</sup>Kumawat S** and **Choi JY**<br> 
 [American Journal of Botany. 110:e16244 (2023)](https://pubmed.ncbi.nlm.nih.gov/37733763/){:target="_blank"}
+
+Prior to 2023 (Before Assistant Professorship)<br>
 
 Signatures of selection underpinning rapid coral adaptation to the world’s warmest reefs<br>
 Smith EG, Hazzouri KM, **Choi JY**, Delaney P, Al-Kharafi M, Howells EJ, Aranda M, Burt JA<br>
