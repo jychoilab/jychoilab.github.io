@@ -42,7 +42,6 @@ No end in sight: Mysteries of the telomeric variation in plants<br>
 
 <br>
 #### Prior to 2023 (Before Assistant Professorship)
-<br>
 
 Signatures of selection underpinning rapid coral adaptation to the world’s warmest reefs<br>
 Smith EG, Hazzouri KM, **Choi JY**, Delaney P, Al-Kharafi M, Howells EJ, Aranda M, Burt JA<br>
