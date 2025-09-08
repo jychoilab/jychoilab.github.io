@@ -40,7 +40,9 @@ No end in sight: Mysteries of the telomeric variation in plants<br>
 **<sup>#</sup>Kumawat S** and **Choi JY**<br> 
 [American Journal of Botany. 110:e16244 (2023)](https://pubmed.ncbi.nlm.nih.gov/37733763/){:target="_blank"}
 
-Prior to 2023 (Before Assistant Professorship)<br>
+<br>
+–––––––––––––––––––––––––––––––  Prior to 2023 (Before Assistant Professorship)<br>  –––––––––––––––––––––––––––––––
+<br>
 
 Signatures of selection underpinning rapid coral adaptation to the world’s warmest reefs<br>
 Smith EG, Hazzouri KM, **Choi JY**, Delaney P, Al-Kharafi M, Howells EJ, Aranda M, Burt JA<br>
