@@ -13,16 +13,16 @@ permalink: /publications/
 
 ### Preprints
 
-Topsicle: a method for estimating telomere length from whole genome long-read sequencing data<br>
-**<sup>#</sup>Nguyen L** and **Choi JY**<br>
-[bioRxiv 2025](https://doi.org/10.1101/2025.07.10.664126){:target="_blank"}
-
 Environment-dependent selection impacts heritable developmental stability and trait canalization in rice<br>
 Dunivant TS, Calic I, Gilligan C,  Joly-Lopez Z,  **Choi JY**, Natividad M, Cabral CLU, Torres RO, Vergara GV, Franks SJ, Henry A, Purugganan M, Groen SC<br>
 [bioRxiv 2025](https://doi.org/10.1101/2025.06.13.659410){:target="_blank"}
 
 
 ### Articles
+
+Topsicle: a method for estimating telomere length from whole genome long-read sequencing data<br>
+**<sup>#</sup>Nguyen L** and **Choi JY**<br>
+[Genome Biology. 26:295 (2025)](https://doi.org/10.1186/s13059-025-03783-4){:target="_blank"}
 
 Monkeyflower (Mimulus) uncovers the evolutionary basis of the eukaryote telomere sequence variation<br>
 **<sup>#</sup>Kumawat S**, **<sup>#</sup>Shametov A**, Valeeva LR, Ju Y, Martinez I, Logeswaran D, Chen H, Coughlan J, Chen J, Yuan YW, Sobel J,Koo DH, Shakirov EV, **Choi JY**<br>
