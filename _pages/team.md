@@ -14,7 +14,7 @@ permalink: /team/
 Jae is an Assistant Professor in Department of Ecology and Evolutionary Biology at the University of Kansas. He received his Ph.D. from Cornell University and was a postdoc at New York University. Jae is interested in combining population and functional genomics to understand the evolution and function of the natural variation observed within plant populations.  
 
 Email: jaeyoung.choi@ku.edu<br>
-[Curriculum Vitae]({{ site.url}}{{ site.baseurl}}/docs/Choi-Curriculum-Vitae-Aug_2024.pdf){:target="_blank"}
+[Curriculum Vitae]({{ site.url}}{{ site.baseurl}}/docs/Choi-Curriculum-Vitae-Sept_2025.pdf){:target="_blank"}
 <br><br><br>
 
 <img src = "{{ site.url}}{{ site.baseurl}}/images/Team/SKumawat.jpeg" class="img-responsive" width = "20%" style="float: left; margin-right: 10px; " />
