@@ -13,7 +13,7 @@ To inquire about potential postdoc opportunities, please email with a CV and a s
 
 I encourage potential postdocs to consider applying for independent funding and am happy to help develop project ideas for postdoc fellowships. Please reach out to write a fellowship together.
 
-Currently I am looking to hire a postdoc. Look at. [advertisement]({{ site.url}}{{ site.baseurl}}/docs/Ads/ChoiLab_KU_Postdoc_Recruitment_Ad.2025){:target="_blank"} for detail.
+Currently I am looking to hire a postdoctoral scholar. Please see [advertisement]({{ site.url}}{{ site.baseurl}}/docs/Ads/ChoiLab_KU_Postdoc_Recruitment_Ad.2025.pdf){:target="_blank"} for more details.
 <br>
 
 ## Prospective graduate students
