@@ -21,7 +21,7 @@ Welcome to the Choi Lab at the University of Kansas! We are part of the Departme
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
     	<div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/GroupPhoto2026Spring.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/GroupPhoto2026Spring.jpeg" alt="Slide 1" />
             <p> Spring 2026 </p>
         </div>
     	<div class="item">
